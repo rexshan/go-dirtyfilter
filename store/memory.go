@@ -2,7 +2,7 @@ package store
 
 import (
 	"bytes"
-	"dirty/cmap"
+	"github.com/rexshan/go-dirtyfilter/cmap"
 	"io"
 	"sync/atomic"
 
