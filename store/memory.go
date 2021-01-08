@@ -2,10 +2,10 @@ package store
 
 import (
 	"bytes"
+	"dirty/cmap"
 	"io"
 	"sync/atomic"
 
-	"github.com/antlinker/go-cmap"
 )
 
 const (
